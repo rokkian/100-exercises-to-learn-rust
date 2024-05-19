@@ -10,12 +10,8 @@ struct Order {
 }
 
 impl Order {
-    fn is_available(self) -> bool {
-        if self.quantity > 0 {
-            true
-        } else {
-            false
-        }
+    fn is_available(&self) -> bool {
+        self.quantity > 0
     }
 }
 
