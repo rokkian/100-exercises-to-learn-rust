@@ -37,5 +37,6 @@ the [`solutions` branch](https://github.com/mainmatter/100-exercises-to-learn-ru
 
 # License
 
+
 Copyright © 2024- Mainmatter GmbH (https://mainmatter.com), released under the
 [Creative Commons Attribution-NonCommercial 4.0 International license](https://creativecommons.org/licenses/by-nc/4.0/).
